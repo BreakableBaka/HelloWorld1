@@ -14,6 +14,7 @@ namespace HelloWorld1
             Console.Beep();
             Console.WriteLine("I am Benjamin Ermacora");
             Console.Beep();
+            Console.WriteLine("Time to learn C#!");
         }
     }
 }
